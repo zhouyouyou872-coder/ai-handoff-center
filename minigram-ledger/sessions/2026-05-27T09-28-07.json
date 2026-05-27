@@ -1,0 +1,14 @@
+{
+  "id": "2026-05-27T09-28-07",
+  "created_at": "2026-05-27T01:28:07.301Z",
+  "note": "今天建立了结构化任务池，并把当前主线切到月份筛选能力，图表映射问题作为并行未完成事项保留。",
+  "current_focus_task_id": "TASK-002",
+  "open_task_ids": [
+    "TASK-001",
+    "TASK-002"
+  ],
+  "branch": "main",
+  "commit": "a4ea2c5",
+  "git_status": "M .gitignore\n?? .ai-handoff.json",
+  "recent_commits": "a4ea2c5 docs: add AI collaboration context files\n81aa909 docs: update README\n3337c7f Merge branch 'main' of https://github.com/zhouyouyou872-coder/minigram-ledger\ne333f4c init project\neb4e767 Initial commit"
+}

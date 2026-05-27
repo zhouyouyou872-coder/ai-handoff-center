@@ -1,4 +1,6 @@
-Please read `.ai/latest-summary.md` first.
-Then continue the current project based on the recorded repo state, recent work, tasks, and handoff notes.
-Do not refactor unrelated parts.
-Start by summarizing the current state and the next concrete task.
+Please read `.ai/latest-summary.md` first, then review the current focus task and open tasks.
+Start by summarizing:
+1. the current focus task,
+2. the next concrete action,
+3. any other open high-priority tasks.
+Then continue TASK-002 without refactoring unrelated parts.

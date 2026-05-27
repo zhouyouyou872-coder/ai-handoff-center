@@ -2,28 +2,25 @@
 
 ## In Progress
 
-- 梳理并持续完善项目文档，便于多设备协作和 AI 接力开发
+- None
 
 ## Todo
 
-- 检查各页面核心流程是否完整可用
-- 补充项目截图或演示说明到 `README.md`
-- 评估是否需要增加月份筛选
-- 评估是否需要增加预算功能
-- 评估是否需要增加云端同步能力
+- TASK-001 分析页图表数据映射异常 [high]
+  next: 检查 chart-view 组件入参与 analysis 数据结构
+  files: components/chart-view/chart-view.js, pages/analysis/analysis.js, utils/analysis.js
+- TASK-002 增加月份筛选能力 [medium]
+  next: 先确定筛选入口页面和交互形式
+  files: pages/index/index.js, pages/analysis/analysis.js
+
+## Blocked
+
+- None
 
 ## Done
 
-- 初始化本地 Git 仓库
-- 关联 GitHub 远程仓库
-- 完成首次代码提交和推送
-- 新增 `.gitignore`
-- 更新 `README.md`
-- 新增 AI 协作上下文文件
+- None
 
-## 使用规则
+## Dropped
 
-- 新任务放到 `Todo`
-- 正在做的任务放到 `In Progress`
-- 已完成的任务移动到 `Done`
-- 如果某个任务卡住，在任务后面直接写明原因
+- None

@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "title": "分析页图表数据映射异常",
+      "status": "todo",
+      "priority": "high",
+      "category": "bug",
+      "source_session_id": "",
+      "updated_at": "2026-05-27T01:27:44.682Z",
+      "next_action": "检查 chart-view 组件入参与 analysis 数据结构",
+      "notes": [
+        "图表渲染数据疑似字段不匹配"
+      ],
+      "related_files": [
+        "components/chart-view/chart-view.js",
+        "pages/analysis/analysis.js",
+        "utils/analysis.js"
+      ]
+    },
+    {
+      "id": "TASK-002",
+      "title": "增加月份筛选能力",
+      "status": "todo",
+      "priority": "medium",
+      "category": "feature",
+      "source_session_id": "",
+      "updated_at": "2026-05-27T01:27:45.609Z",
+      "next_action": "先确定筛选入口页面和交互形式",
+      "notes": [
+        "优先考虑分析页和首页列表页"
+      ],
+      "related_files": [
+        "pages/index/index.js",
+        "pages/analysis/analysis.js"
+      ]
+    }
+  ]
+}
