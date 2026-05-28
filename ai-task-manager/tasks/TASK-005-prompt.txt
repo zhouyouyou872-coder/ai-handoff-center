@@ -1,0 +1,7 @@
+Current task: TASK-005 跑通 AI 会话直接触发前端界面并在界面对话
+Status: todo
+Priority: high
+Category: frontend
+Next action: 设计从 AI 会话拉起本地 UI 并把对话转发到界面的最小链路
+Before editing, summarize the current task, the next concrete action, and any constraints.
+Do not refactor unrelated parts.

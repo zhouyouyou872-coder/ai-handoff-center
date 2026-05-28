@@ -4,10 +4,10 @@
   "branch": "main",
   "commit": "",
   "updated_at": "",
-  "current_focus_task_id": "TASK-001",
+  "current_focus_task_id": "TASK-004",
   "last_session_id": "",
   "active_task_ids": [
-    "TASK-001",
-    "TASK-002"
+    "TASK-004",
+    "TASK-005"
   ]
 }

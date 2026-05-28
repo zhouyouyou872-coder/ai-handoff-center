@@ -3,29 +3,32 @@
     {
       "id": "TASK-001",
       "title": "AI多任务管理前端界面",
-      "status": "todo",
+      "status": "dropped",
       "priority": "high",
       "category": "frontend",
       "source_session_id": "",
-      "updated_at": "2026-05-27T04:50:22.560Z",
+      "updated_at": "2026-05-28T06:08:39.758Z",
       "next_action": "梳理前端界面信息架构，确认任务列表、当前任务、状态切换和进度记录的核心交互",
       "notes": [
-        "创建用于设计和实现 ai 多任务管理前端界面的任务"
+        "创建用于设计和实现 ai 多任务管理前端界面的任务",
+        "Started from AI office UI",
+        "Closed by user"
       ],
       "related_files": []
     },
     {
       "id": "TASK-002",
       "title": "实现用户一键安装与配置",
-      "status": "blocked",
+      "status": "dropped",
       "priority": "high",
       "category": "setup",
       "source_session_id": "",
-      "updated_at": "2026-05-27T04:53:16.943Z",
+      "updated_at": "2026-05-28T06:08:54.514Z",
       "next_action": "梳理安装入口、依赖检查、初始化配置和失败回滚的最小可行流程",
       "notes": [
         "创建用于实现用户一键安装与配置能力的任务",
-        "暂不处理，当前优先推进前端界面任务"
+        "暂不处理，当前优先推进前端界面任务",
+        "Closed by user"
       ],
       "related_files": []
     },
@@ -46,6 +49,33 @@
         "README.md",
         "INSTALL_AND_USAGE.md"
       ]
+    },
+    {
+      "id": "TASK-004",
+      "title": "继续优化AI办公室插画底图与工位覆盖层贴合效果",
+      "status": "in_progress",
+      "priority": "high",
+      "category": "frontend",
+      "source_session_id": "",
+      "updated_at": "2026-05-28T05:05:28.142Z",
+      "next_action": "按办公室底图逐个标定工位坐标，并继续微调小人姿势和状态覆盖层",
+      "notes": [
+        "当前固定底图加覆盖层方案已落地，但整体视觉与参考图仍有差距，需要继续精调工位坐标和人物贴合效果",
+        "Started from AI office chat"
+      ],
+      "related_files": []
+    },
+    {
+      "id": "TASK-005",
+      "title": "跑通 AI 会话直接触发前端界面并在界面对话",
+      "status": "todo",
+      "priority": "high",
+      "category": "frontend",
+      "source_session_id": "",
+      "updated_at": "2026-05-28T06:04:38.387Z",
+      "next_action": "设计从 AI 会话拉起本地 UI 并把对话转发到界面的最小链路",
+      "notes": [],
+      "related_files": []
     }
   ]
 }
