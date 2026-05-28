@@ -1,0 +1,21 @@
+﻿{
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "title": "优化风险评估模型",
+      "status": "todo",
+      "priority": "high",
+      "category": "feature",
+      "source_session_id": "",
+      "updated_at": "2026-05-28T01:30:00.000Z",
+      "next_action": "梳理当前 sprint 发布计划的风险评估规则，明确误报点和优化目标",
+      "notes": [
+        "当前迭代发布计划中的风险评估效果不理想，需要优化评估模型"
+      ],
+      "related_files": [
+        "src/routes/project/sprint/ReleasePlan/riskCalculator.js",
+        "src/routes/project/sprint/SprintDetailIndex.js"
+      ]
+    }
+  ]
+}

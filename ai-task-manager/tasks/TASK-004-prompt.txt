@@ -6,4 +6,3 @@ Next action: 按办公室底图逐个标定工位坐标，并继续微调小人�
 Notes: 当前固定底图加覆盖层方案已落地，但整体视觉与参考图仍有差距，需要继续精调工位坐标和人物贴合效果 | Started from AI office chat
 Before editing, summarize the current task, the next concrete action, and any constraints.
 Do not refactor unrelated parts.
-This is the current focus task. Continue TASK-004 first.

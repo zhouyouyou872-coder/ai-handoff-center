@@ -1,0 +1,9 @@
+﻿Current task: TASK-001 优化风险评估模型
+Status: todo
+Priority: high
+Category: feature
+Next action: 梳理当前 sprint 发布计划的风险评估规则，明确误报点和优化目标
+Notes: 当前迭代发布计划中的风险评估效果不理想，需要优化评估模型
+Before editing, summarize the current task, the next concrete action, and any constraints.
+Do not refactor unrelated parts.
+This is the current focus task. Continue TASK-001 first.

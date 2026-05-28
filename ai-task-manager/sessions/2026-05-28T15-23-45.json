@@ -1,0 +1,14 @@
+{
+  "id": "2026-05-28T15-23-45",
+  "created_at": "2026-05-28T07:23:45.538Z",
+  "note": "TASK-005: added UI launch entry with --open and --message, and auto-submit of the initial chat message from the UI URL.",
+  "current_focus_task_id": "TASK-005",
+  "open_task_ids": [
+    "TASK-004",
+    "TASK-005"
+  ],
+  "branch": "main",
+  "commit": "7600b9d",
+  "git_status": "M .ai/current-task-prompt.txt\n M .ai/current-task.md\n M .ai/latest-summary.md\n M .ai/resume-prompt.txt\n M .ai/tasks.md\n M .gitignore\n M README.md\n M packages/cli/bin/ai-task.js\n M packages/cli/package.json\n M skills/ai-task-manager/SKILL.md\n?? packages/cli/ui/",
+  "recent_commits": "7600b9d 1\n7486636 merge remote initial commit\nea57d3a Initial commit\nfe0e6fd init ai task manager"
+}

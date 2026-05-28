@@ -3,4 +3,4 @@ Start by summarizing:
 1. the current focus task,
 2. the next concrete action,
 3. any other open high-priority tasks.
-Then continue the current focus task without refactoring unrelated parts.
+Then continue TASK-005 without refactoring unrelated parts.

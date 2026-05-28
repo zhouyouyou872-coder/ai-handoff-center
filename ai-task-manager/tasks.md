@@ -4,11 +4,12 @@
 
 - TASK-004 继续优化AI办公室插画底图与工位覆盖层贴合效果 [high]
   next: 按办公室底图逐个标定工位坐标，并继续微调小人姿势和状态覆盖层
+- TASK-005 跑通 AI 会话直接触发前端界面并在界面对话 [high]
+  next: 验证 ai-task ui --open --message 的实际拉起链路，并补充会话接入方式
 
 ## Todo
 
-- TASK-005 跑通 AI 会话直接触发前端界面并在界面对话 [high]
-  next: 设计从 AI 会话拉起本地 UI 并把对话转发到界面的最小链路
+- None
 
 ## Blocked
 
