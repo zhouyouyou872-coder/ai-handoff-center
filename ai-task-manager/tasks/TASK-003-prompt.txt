@@ -1,0 +1,9 @@
+Current task: TASK-003 接入安装与使用文档并同步当前仓库变更
+Status: done
+Priority: high
+Category: docs
+Next action: 将 INSTALL_AND_USAGE.md 链接到顶层 README，并同步当前项目任务状态
+Related files: README.md, INSTALL_AND_USAGE.md
+Notes: 需要让仓库入口能直接发现安装与使用文档 | 已在 README 接入 INSTALL_AND_USAGE.md 入口，并同步仓库说明与示例任务描述
+Before editing, summarize the current task, the next concrete action, and any constraints.
+Do not refactor unrelated parts.

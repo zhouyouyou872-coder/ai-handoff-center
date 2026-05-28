@@ -2,17 +2,50 @@
   "tasks": [
     {
       "id": "TASK-001",
-      "title": "设计 AI 多任务并行执行方案",
+      "title": "AI多任务管理前端界面",
       "status": "todo",
       "priority": "high",
-      "category": "architecture",
+      "category": "frontend",
       "source_session_id": "",
-      "updated_at": "2026-05-27T14:09:09.682Z",
-      "next_action": "梳理多 agent 并行执行的任务模型、依赖关系、认领机制和结果汇总流程",
+      "updated_at": "2026-05-27T04:50:22.560Z",
+      "next_action": "梳理前端界面信息架构，确认任务列表、当前任务、状态切换和进度记录的核心交互",
       "notes": [
-        "基于当前 ai-task-manager，评估如何支持多 agent 并行执行，并用现有任务管理机制统一管理。"
+        "创建用于设计和实现 ai 多任务管理前端界面的任务"
       ],
       "related_files": []
+    },
+    {
+      "id": "TASK-002",
+      "title": "实现用户一键安装与配置",
+      "status": "blocked",
+      "priority": "high",
+      "category": "setup",
+      "source_session_id": "",
+      "updated_at": "2026-05-27T04:53:16.943Z",
+      "next_action": "梳理安装入口、依赖检查、初始化配置和失败回滚的最小可行流程",
+      "notes": [
+        "创建用于实现用户一键安装与配置能力的任务",
+        "暂不处理，当前优先推进前端界面任务"
+      ],
+      "related_files": []
+    },
+    {
+      "id": "TASK-003",
+      "title": "接入安装与使用文档并同步当前仓库变更",
+      "status": "done",
+      "priority": "high",
+      "category": "docs",
+      "source_session_id": "",
+      "updated_at": "2026-05-27T05:11:01.845Z",
+      "next_action": "将 INSTALL_AND_USAGE.md 链接到顶层 README，并同步当前项目任务状态",
+      "notes": [
+        "需要让仓库入口能直接发现安装与使用文档",
+        "已在 README 接入 INSTALL_AND_USAGE.md 入口，并同步仓库说明与示例任务描述"
+      ],
+      "related_files": [
+        "README.md",
+        "INSTALL_AND_USAGE.md"
+      ]
     }
   ]
 }

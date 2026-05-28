@@ -1,0 +1,9 @@
+Current task: TASK-002 增加月份筛选能力
+Status: todo
+Priority: medium
+Category: feature
+Next action: 先确定筛选入口页面和交互形式
+Related files: pages/index/index.js, pages/analysis/analysis.js
+Notes: 优先考虑分析页和首页列表页
+Before editing, summarize the current task, the next concrete action, and any constraints.
+Do not refactor unrelated parts.

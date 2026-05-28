@@ -6,16 +6,19 @@
 
 ## Todo
 
-- TASK-001 设计 AI 多任务并行执行方案 [high]
-  next: 梳理多 agent 并行执行的任务模型、依赖关系、认领机制和结果汇总流程
+- TASK-001 AI多任务管理前端界面 [high]
+  next: 梳理前端界面信息架构，确认任务列表、当前任务、状态切换和进度记录的核心交互
 
 ## Blocked
 
-- None
+- TASK-002 实现用户一键安装与配置 [high]
+  next: 梳理安装入口、依赖检查、初始化配置和失败回滚的最小可行流程
 
 ## Done
 
-- None
+- TASK-003 接入安装与使用文档并同步当前仓库变更 [high]
+  next: 将 INSTALL_AND_USAGE.md 链接到顶层 README，并同步当前项目任务状态
+  files: README.md, INSTALL_AND_USAGE.md
 
 ## Dropped
 

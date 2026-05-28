@@ -2,11 +2,12 @@
   "project": "ai-task-manager",
   "repo": "https://github.com/zhouyouyou872-coder/ai-task-manager.git",
   "branch": "main",
-  "commit": "7600b9d",
-  "updated_at": "2026-05-27T14:09:42.188Z",
+  "commit": "",
+  "updated_at": "",
   "current_focus_task_id": "TASK-001",
-  "last_session_id": "2026-05-27T22-09-42",
+  "last_session_id": "",
   "active_task_ids": [
-    "TASK-001"
+    "TASK-001",
+    "TASK-002"
   ]
 }

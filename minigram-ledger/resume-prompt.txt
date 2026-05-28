@@ -1,6 +1,6 @@
-Please read `.ai/latest-summary.md` first, then review the current focus task and open tasks.
+Please read `.ai/latest-summary.md` first, then review `.ai/current-task.md` and `.ai/current-task-prompt.txt`.
 Start by summarizing:
 1. the current focus task,
 2. the next concrete action,
 3. any other open high-priority tasks.
-Then continue TASK-002 without refactoring unrelated parts.
+Then continue TASK-001 without refactoring unrelated parts.
